@@ -1,0 +1,19 @@
+# Temp
+temp
+*temp*
+__*
+~*
+.vs*
+
+# Archive
+*.zip
+*.tar
+*.gz
+*.xz
+*.7z
+*.rar
+
+# Bin
+*.exe
+*.msi
+bin
